@@ -1,5 +1,8 @@
 _repo: Lessons-in-Sabre-Singlestick-Sabre-Bayonet-and-Sword-Feats-or-How-to-use-a-cut-and-thrust-swo__67257
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67257-h/images/cover.jpg
 creator:
   author:
     agent_name: Waite, J. M. (John Musgrave)
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54037
     wikipedia: https://en.wikipedia.org/wiki/John_Musgrave_Waite
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67257#Lessons-in-Sabre-Singlestick-Sabre-Bayonet-and-Sword-Feats-or-How-to-use-a-cut-and-thrust-swo_
 gutenberg_issued: '2022-01-26'
 identifiers:
   gutenberg: '67257'
